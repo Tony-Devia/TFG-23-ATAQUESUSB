@@ -1,4 +1,4 @@
-layout('es');
+layout('u');
 delay(500);
 press("GUI r");
 delay(200);
