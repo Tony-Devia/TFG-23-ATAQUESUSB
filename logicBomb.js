@@ -1,4 +1,4 @@
-layout ("es");
+layout ("us");
 waitLEDRepeat (ANY,3,1000000);
 press ("GUI r");
 delay(100);
