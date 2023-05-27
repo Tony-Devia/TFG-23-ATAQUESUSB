@@ -1,4 +1,4 @@
-layout('es') 
+layout('us') 
  
 press("GUI") 
 delay(500) 
