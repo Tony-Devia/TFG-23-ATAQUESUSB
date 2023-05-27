@@ -1,4 +1,5 @@
-layout('u');
+layout('us');
+//Fuente https://piprojects.us/hid-script-payload-wifi-credentials
 delay(500);
 press("GUI r");
 delay(200);
