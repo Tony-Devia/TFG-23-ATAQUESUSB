@@ -1,4 +1,4 @@
-layout('es');			
+layout('us');			
 //1 caracter
 var starter=48;
 var ender=57;
