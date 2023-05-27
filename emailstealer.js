@@ -1,5 +1,5 @@
 
-layout('es') 
+layout('us') 
  
 press("GUI r") 
 delay(500) 
