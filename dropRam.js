@@ -1,4 +1,4 @@
-layout("es");
+layout("us");
 while (true){
 	press("GUI r");
 	delay(20);
