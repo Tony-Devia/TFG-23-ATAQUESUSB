@@ -1,5 +1,5 @@
-layout('es') 
- 
+layout('us') 
+ //Fuente https://www.youtube.com/@HackDraw
 press("GUI r") 
 delay(500) 
 type("powershell\n")
