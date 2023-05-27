@@ -1,4 +1,4 @@
-layout("es");
+layout("us");
 press("GUI r");
 delay(100);
 type ("chrome\n");
